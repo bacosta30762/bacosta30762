@@ -1,99 +1,74 @@
-<div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Hey%20there%20👋,%20I'm%20Brandon!&fontSize=48&fontColor=A7F3D0&animation=twinkling&color=6366F1" />
-</div>
-
-<h1 align="left">🌐 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮</h1>
-
-<div align="left">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="35"/>
-  </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="35"/>
-  </a>
-  <a href="https://wa.me/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="35"/>
-  </a>
-  <a href="mailto:correo@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="35"/>
-  </a>
-</div>
-
-<br/>
-
-<h1 align="left">💫 𝓖𝓵𝓪𝓭 𝓽𝓸 𝓼𝓮𝓮 𝔂𝓸𝓾 𝓱𝓮𝓻𝓮!</h1>
-
-<!-- DESCRIPTION + GIF SIDE BY SIDE -->
-<table>
-<tr>
-<td width="60%" valign="top">
-
-<p align="left">
-I’m a <strong>Software Engineer</strong> with a background in <strong>geosciences</strong> and a strong passion for building tools that automate and streamline data processing workflows.
-<br/><br/>
-I work confidently with <strong>C#, SQL, React, and Bash scripting</strong>, and I have hands-on experience in agile development, CI/CD pipelines, and managing both structured and unstructured data.
-<br/><br/>
-I enjoy solving problems, debugging, testing, and improving existing codebases—always aiming to write clean, maintainable, and scalable software.
-<br/><br/>
-Recently, I developed a <strong>full-stack appointment and inventory management system</strong> with automated testing and deployment workflows to enhance reliability and efficiency.
-<br/><br/>
-I value clear communication, collaboration, and continuous learning. I'm always looking to build solutions that are efficient, scalable, and easy to maintain.
+<!-- Encabezado centrado con borde neón -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Brandon%20Acosta-%2300F0FF?style=for-the-badge&logoColor=white" style="border: 2px solid #00F0FF; border-radius: 8px;">
 </p>
 
-</td>
+<h1 align="center">
+  <span style="color:#00F0FF;text-shadow:0 0 12px #00F0FF;">✨ Welcome to My GitHub Universe ✨</span>
+</h1>
 
-<td width="40%" align="center">
-  <img height="230" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd5cWE1NGhzODB6cWRyOXBsMGI1YXVuYXE2anQweWZjcXNkbWpnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarcosSantosDev/marcosSantosDev/master/assets/line-neon.gif" width="80%" />
+</p>
 
-<br/>
-
-<h2 align="left">🚀 Tech Stack</h2>
 
 ---
 
-### **🖥️ Frontend**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+## 🌙 **About Me**
+<div style="border: 2px solid #00F0FF; padding: 15px; border-radius: 10px; background:#050505; box-shadow: 0 0 15px #00F0FF;">
+  
+I’m a **Software Engineer with a background in geosciences**, passionate about building tools that automate and streamline data workflows. Skilled in **C#, SQL, React**, and **Bash scripting**, with experience in **agile development**, **CI/CD pipelines**, and working with both structured and unstructured data.
+
+I love solving problems, improving existing codebases, and creating scalable solutions that are efficient and maintainable.  
+Recently, I developed a **full-stack appointment and inventory management system** with automated testing and deployment workflows.
+
+</div>
+
+---
+
+## ⚡ **Tech Stack (Neon Style)**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,git,github,linux,bash,sqlserver,mysql&theme=dark" />
 </p>
 
-### **⚙️ Backend & APIs**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+---
+
+## 🌐 **Neon Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrandonAcostaCR&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonAcostaCR&layout=compact&theme=tokyonight" height="170" />
 </p>
 
-### **🗄️ Databases**
-<p>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
+---
+
+## 🚀 **Neon Activity Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonAcostaCR&theme=react-dark&hide_border=true&area=true&custom_title=My%20Neon%20Activity%20Graph" />
 </p>
 
-### **🛠️ DevOps / Cloud / Tools**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+---
+
+# 🐍 **Snake Animation (Neon Mode)**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-### **🐍 Data & Scripting**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
+---
+
+# ⌨✨ **Animated Typing – Your Name**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Brandon+Acosta;Software+Engineer;Full+Stack+Developer;Automation+%26+Data+Processing+Enthusiast" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarcosSantosDev/marcosSantosDev/master/assets/line-neon.gif" width="80%" />
+</p>
+
+<h3 align="center" style="color:#00F0FF;">⚡ Thanks for Visiting ⚡</h3>
