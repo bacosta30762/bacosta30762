@@ -7,10 +7,10 @@
 <h1 align="left" style="color:#00E5FF;">🌐 Contact me</h1>
 
 <div align="left">
-  <a href="https://www.linkedin.com" target="https://www.linkedin.com/in/brandon-acostaC">
+  <a href="https://www.linkedin.com/in/brandon-acostaC" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" />
   </a>
-  <a href="https://www.instagram.com" target="https://www.instagram.com/brandon_acostac/">
+  <a href="https://www.instagram.com/brandon_acostac/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" />
   </a>
   <a href="https://wa.me/50688552235" target="_blank">
