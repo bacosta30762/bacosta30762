@@ -125,3 +125,18 @@ I value teamwork, clear communication, and continuous learning — always aiming
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
 </div>
+
+
+<!-- END -->
+
+<h3 align="center" style="color:#00F0FF;">⚡ Thanks for Visiting ⚡</h3>
+
+###
+
+# 🐍 **Snake Animation (Neon Mode)**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+###
